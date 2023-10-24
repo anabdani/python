@@ -3,5 +3,5 @@
 # não é verdadeiro = falso
 # não falso = verdadeiro
 # senha = input('Senha: ')
-imprimir ( não  verdadeiro )   #Falso
-imprimir ( não  falso )   # Verdadeiro
+print( not  True)   #Falso
+print( not False )   # Verdadeiro
